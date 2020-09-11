@@ -1,7 +1,7 @@
 # Question-Retrieval-based-on-Community-Question-Answering
 
 
-This is my thesis project that amis at using question retrieval techniques to faciliate Community Question Answering (CQA) platforms.
+This is my thesis project that amis at using question retrieval techniques to faciliate Community Question Answering (CQA) platforms. You can check more details from my [thesis repository](https://repository.tudelft.nl/islandora/object/uuid%3A2a0538ba-c79e-4572-bdb7-c82db303f169).
 
 This repo includes following part:</b>
 
